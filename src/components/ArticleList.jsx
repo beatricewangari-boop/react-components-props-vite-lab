@@ -11,8 +11,8 @@ function ArticleList({ posts }) {
             preview={post.preview}
          />
     ))}
-        </main>
-    );
+    </main>
+  );
 }
 
 export default ArticleList;
